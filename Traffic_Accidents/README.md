@@ -164,26 +164,6 @@ streamlit run app.py
 
 ---
 
-# 📁 Project Structure
-
-```
-PRODIGY_DS_05/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── traffic_accidents.csv
-├── Traffic_Accident_Analysis.ipynb
-│
-└── screenshots/
-    ├── dashboard.png
-    ├── weather_analysis.png
-    ├── road_conditions.png
-    ├── accidents_by_hour.png
-    └── top_contributing_factors.png
-```
-
----
 
 # 👩‍💻 Author
 
