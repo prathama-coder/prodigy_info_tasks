@@ -29,19 +29,19 @@ The application provides an interactive Streamlit dashboard where users can ente
 
 ### Main Dashboard
 
-![Dashboard](dashboard.PNG)
+![Dashboard](dashboard.png)
 
 ---
 
 ### Prediction Result
 
-![Prediction](prediction_result.PNG)
+![Prediction](prediction_result.png)
 
 ---
 
 ### Feature Importance
 
-![Feature Importance](feature_importance.PNG)
+![Feature Importance](feature_importance.png)
 
 ---
 
